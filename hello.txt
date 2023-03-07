@@ -12,5 +12,7 @@ hello git! hello github! hello gitee!
 hello git! hello github! hello gitee!
 hello git! hello github! hello gitee!
 hello git! hello github! hello gitee!
+console console console consloe console
 git-test git-demo master and hot-fix first merge!
 git-test git-space lxj01-remote01 master first commit!
+console know!!!

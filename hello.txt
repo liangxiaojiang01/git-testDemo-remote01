@@ -14,3 +14,4 @@ hello git! hello github! hello gitee!
 hello git! hello github! hello gitee!
 git-test git-demo hot-fix first revise!
 git-test git-space lxj01-remote01 hot-fix first commit!
+console know!
